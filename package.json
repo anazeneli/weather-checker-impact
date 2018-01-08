@@ -1,7 +1,6 @@
 {
   "name": "classexample",
   "version": "1.0.0",
-  "description": "",
   "main": "webpack.config.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -20,5 +19,17 @@
   "dependencies": {
     "react": "^16.1.1",
     "react-dom": "^16.1.1"
-  }
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anazeneli/weather-checker-impact.git"
+  },
+  "bugs": {
+    "url": "https://github.com/anazeneli/weather-checker-impact/issues"
+  },
+  "homepage": "https://github.com/anazeneli/weather-checker-impact#readme",
+  "description": ""
 }
